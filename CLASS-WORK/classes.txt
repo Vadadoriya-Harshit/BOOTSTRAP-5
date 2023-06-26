@@ -1,0 +1,187 @@
+	           ---------------text-propertied------
+(1) text-start
+(2)text-center
+(3)text-end
+(4)text-break
+(5)text-uppercase
+(6)text-capitalize
+           ------------------font classes--------------------
+
+(1)fs-1                                       (2.5 rem)
+(2)fs-2                                       (2 rem)
+(3)fs-3                                       (1.75 rem)
+(4)fs-4                                       (1.5 rem)
+(5)fs-5                                        (1 rem)
+(6)fw-bold
+(7)fw-bolder
+(8)fw-normal
+(9)fw-lighter
+(10)fst-italic
+(11)fst-normal
+
+            -------------------- spacing classes --------------------------
+(1)m1                 (4px)
+(2)m2                 (8px)
+(3)m3                 (16px)
+(4)m4                 (24px)
+(5)m5                 (48px)
+(6)my
+(7)mx
+(8)m-auto
+(9)mt
+(10)mb
+(11)ms
+(12)me
+(13)m(s/e/t/b)-0
+         ----------------------padding classes----------------------
+(1)p-1        (4px)
+(2)p-2        (8px)
+(3)p-3        (16px)
+(4)p-4        (24px)
+(5)p-5        (48px)
+(6)pt
+(7)ps
+(8)pe
+(9)pb
+(9)px
+(10)py
+(11)p-auto
+(12)p(s/e/t/b)-0
+
+     -----------------------------border-------------------------
+border from 0-5
+(1) border                           
+(2)border-top
+(3)border-right
+(4)border-bottum
+(5)border-left
+ (for remove border than use border 0(with direction)
+
+             ------------ -border-color----------
+(1)border-primary
+(2)border-secondary
+(3)border-info
+(4)border-white
+(5)border-success
+(6)border-dark
+(7)border-light
+(8)border-danger
+(9)border-warning
+
+        --------------------border-radius----------------------------
+(1)rounded
+(2)rounded-circle
+(3)rounded-1
+(4)rounded-2
+(5)rounded-3	
+(6)rounded-4
+(7)rounded-5
+(8)rounded-(top/right/bottum/left)
+
+------------------------------display classes------------------------
+(1)d-flex
+(2)d-inline-flex
+(3)d-sm-flex
+(4)d-sm-inline-flex
+(5)d-md-flex
+(6)d-md-inline-flex
+(7)d-lg-flex
+(8)d-lg-inline-flex
+(9)d-xl-flex
+(10)d-xl-inline-flex
+(11)d-xxl-flex
+(12)d-xxl-inline-flex
+
+---------------------float -------------------------------------
+float-start
+.float-end
+.float-none
+.float-sm-start
+.float-sm-end
+.float-sm-none
+.float-md-start
+.float-md-end
+.float-md-none
+.float-lg-start
+.float-lg-end
+.float-lg-none
+.float-xl-start
+.float-xl-end
+.float-xl-none
+.float-xxl-start
+.float-xxl-end
+.float-xxl-none
+
+           ----------------------------positions---------------------
+(1)position-static
+(2)position-fixed
+(3)position-sticky
+(4)position-relative
+(5)position-absolute
+(6)top
+(7)start-(0/50/100)
+(8)bottum-(0/50/100)
+(9)end-(0/50/100)
+(10)translate-middle  - to center an element
+(11)translate-middle-x
+(12)translate-middle-y
+
+EXample :- <div class="position-absolute top-0 start- 0"></div>
+              --------------------overflow----------------------------
+(1)overflow-(auto/scroll/visible/hidden)
+
+             ---------------------------- table classes-------------------------------------------
+table-primary	Blue: Indicates an important action
+.table-success	Green: Indicates a successful or positive action
+.table-danger	Red: Indicates a dangerous or potentially negative action
+.table-info	Light blue: Indicates a neutral informative change or action
+.table-warning	Orange: Indicates a warning that might need attention
+.table-active	Grey: Applies the hover color to the table row or table cell
+.table-secondary	Grey: Indicates a slightly less important action
+.table-light	Light grey table or table row background
+.table-dark	Dark grey table or table row background
+
+
+                             -------------------------------buttons-----------------------------------------------------
+
+(1)btn-primary
+(2)btn-secondary
+(3)btn-info
+(4)btn-success
+(5)btn-warning
+(6)btn-dark
+(7)btn-light
+(8)btn-white
+(9)btn-link
+(10)btn-outline-primary
+(11)btn-outline-secondary
+(12)btn-outline-success
+(13)btn-outline-info
+(14)btn-outline-warning
+(15)btn-outline-danger
+(16)btn btn-outline-dark
+(17)btn btn-outline-light
+(18)btn-lg
+(19)btn-sm
+(20)btn-block
+(21)active
+(22)disabled
+(23)spinner-border
+(24) spinner-border-sm
+(25)btn-md
+                           -----------------judtify------------------
+(1) d-flex
+(2)justify-content-(center/start/end).
+(3)d-grid
+
+
+        --------------------line height------------------------
+(1)lh-1
+(2)lh-sm
+(3)lh-base
+(4)lh-lg
+
+
+
+
+
